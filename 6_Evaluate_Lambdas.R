@@ -3,9 +3,6 @@
 #CVSet, as prepared by script 5, should be loaded into memory
 ############################
 
-#This code was used to evaluated both the cv set and test set. In reality, i did not use any of the docs marked as test set.
-#I just used another randomly chosen set from the CV set, due to time constraints
-
 
 #function from script 4
 load("create_model_function")
